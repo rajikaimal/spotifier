@@ -1,0 +1,22 @@
+{
+  "name": "spotifier",
+  "version": "1.0.0",
+  "description": "JavaScript wrapper for spotify api",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajikaimal/spotifier.git"
+  },
+  "keywords": [
+    "spotify"
+  ],
+  "author": "rajikaimal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajikaimal/spotifier/issues"
+  },
+  "homepage": "https://github.com/rajikaimal/spotifier#readme"
+}
