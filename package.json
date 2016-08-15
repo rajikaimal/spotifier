@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rajikaimal/spotifier/issues"
   },
-  "homepage": "https://github.com/rajikaimal/spotifier#readme"
+  "homepage": "https://github.com/rajikaimal/spotifier#readme",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
 }
