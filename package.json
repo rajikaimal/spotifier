@@ -1,5 +1,5 @@
 {
-  "name": "spotifier",
+  "name": "spotifyr",
   "version": "1.0.0",
   "description": "JavaScript wrapper for spotify api",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rajikaimal/spotifier.git"
+    "url": "git+https://github.com/rajikaimal/spotifyr.git"
   },
   "keywords": [
     "spotify"
@@ -16,9 +16,9 @@
   "author": "rajikaimal",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rajikaimal/spotifier/issues"
+    "url": "https://github.com/rajikaimal/spotifyr/issues"
   },
-  "homepage": "https://github.com/rajikaimal/spotifier#readme",
+  "homepage": "https://github.com/rajikaimal/spotifyr#readme",
   "dependencies": {
     "request": "^2.74.0"
   },

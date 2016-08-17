@@ -1,4 +1,4 @@
-# spotifier [![Build Status](https://travis-ci.org/rajikaimal/spotifier.svg?branch=master)](https://travis-ci.org/rajikaimal/spotifier)
+# spotifyr [![Build Status](https://travis-ci.org/rajikaimal/spotifyr.svg?branch=master)](https://travis-ci.org/rajikaimal/spotifyr)
 
 Retrieve data from spotify public REST API for a search item
 
