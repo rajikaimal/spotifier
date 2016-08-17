@@ -4,6 +4,25 @@ Retrieve data from spotify public REST API for a search item
 
 > works without authentication
 
+## Install
+
+```
+npm install --save spotifyr
+```
+
+## Usage
+
+```
+const spotifyr = require('spotifyr');
+spotifyr('avicii', 'artist', function(error, response) {
+	if(error) {
+		console.log(error);	
+	} else {
+		console.log(response);
+	}
+});
+```
+
 ## API
 
 ### search(query, type)
