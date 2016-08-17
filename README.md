@@ -12,8 +12,9 @@ npm install --save spotifyr
 
 ## Usage
 
-```
+```js
 const spotifyr = require('spotifyr');
+
 spotifyr('avicii', 'artist', function(error, response) {
 	if(error) {
 		console.log(error);	
