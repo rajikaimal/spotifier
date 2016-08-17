@@ -26,7 +26,7 @@ spotifyr('avicii', 'artist', function(error, response) {
 
 ## API
 
-### search(query, type)
+### search(query, type, callback)
 
 Returns json data for requested query
 
@@ -41,6 +41,12 @@ Query for requesting data
 Type: `string`
 
 Valid types : album, artist, playlist, track
+
+#### callback
+
+Type: `function`
+
+Takes two arguments, error and response respectively
 
 ## License
 
