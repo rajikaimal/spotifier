@@ -1,4 +1,4 @@
-# spotifyr [![Build Status](https://travis-ci.org/rajikaimal/spotifyr.svg?branch=master)](https://travis-ci.org/rajikaimal/spotifyr)
+# spotifyr [![Build Status](https://travis-ci.org/rajikaimal/spotifyr.svg?branch=master)](https://travis-ci.org/rajikaimal/spotifyr) [![Greenkeeper badge](https://badges.greenkeeper.io/rajikaimal/spotifyr.svg)](https://greenkeeper.io/)
 
 Retrieve data from spotify public REST API for a search item
 
